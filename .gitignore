@@ -21,3 +21,9 @@ db.sqlite3
 
 # Logs
 *.log
+node_modules/
+env/
+venv/
+__pycache__/
+*.pyc
+.env
